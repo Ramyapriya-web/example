@@ -1,0 +1,86 @@
+.home-cont {
+  width: 30vw;
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ece75f;
+  border-radius: 10px;
+  font-family: "Roboto";
+  padding: 20px;
+}
+.img {
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+}
+.card-containers {
+  margin-top: 20px;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  height: 40vh;
+  background-color: #ece75f;
+  background-size: cover;
+  border-radius: 10px;
+}
+.pp1 {
+  color: #ffffff;
+  font-size: 20px;
+}
+.imge1 {
+  width: 100px;
+  height: 100px;
+}
+.pp2 {
+  color: #ffffff;
+  font-size: 20px;
+}
+.code-but {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  width: 150px;
+  color: #530385;
+  background-color: #ffffff;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+}
+.container-list {
+  margin-top: 20px;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 15px;
+  height: 40vh;
+  background-color: #9c5beb;
+  background-size: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.heads {
+  color: #ffffff;
+  font-size: 18px;
+}
+.cont-lis {
+  display: flex;
+  flex-direction: column;
+  background-color: #530385;
+  color: #ffffff;
+  width: 25vw;
+  border-radius: 10px;
+  border-width: 0px;
+  list-style-type: none;
+}
